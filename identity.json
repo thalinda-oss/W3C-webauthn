@@ -1,0 +1,78 @@
+{
+  "type": "IAM_Ownership_Assertion",
+  "resourceOwner": {
+    "name": "Thalinda Sriprajak",
+    "role": "Master / Owner IAM",
+    "digitalCredential": {
+      "personalInformation": {
+        "name": "Thalinda Sriprajak",
+        "name_th": "ธลินดา ศรีประจักษ์",
+        "formerName": "Nureeha Sriprajak",
+        "formerName_th": "นูรีฮะ ศรีประจักษ์",
+        "formerName_ar": "نوريها",
+        "nationalNumber": "1-1499-00265-31-6",
+        "dateOfBirth": "1992-07-10",
+        "religion": "Islam",
+        "address": {
+          "village": "หมู่ 6",
+          "subdistrict": "คลองตะเคียน",
+          "district": "พระนครศรีอยุธยา",
+          "province": "พระนครศรีอยุธยา",
+          "country": "Thailand"
+        },
+        "address_en": {
+          "village": "6 Village No. 11",
+          "subdistrict": "Khlong Takhian",
+          "district": "Phra Nakhon Si Ayutthaya",
+          "province": "Phra Nakhon Si Ayutthaya",
+          "country": "Thailand"
+        }
+      },
+      "passportInformation": {
+        "country": "Kingdom of Thailand",
+        "passportNumber": "AC2218918",
+        "surname": "SRIPRAJAK",
+        "givenName": "THALINDA",
+        "dateOfBirth": "1992-07-10",
+        "nationalID": "1149900265316",
+        "placeOfIssue": "Phra Nakhon Si Ayutthaya",
+        "dateOfIssue": "2020-10-12",
+        "dateOfExpiry": "2029-07-09",
+        "issuingAuthority": "Ministry of Foreign Affairs"
+      },
+      "nameChangeCertificate": {
+        "formerName": "Nureeha Sriprajak",
+        "formerName_th": "นูรีฮะ ศรีประจักษ์",
+        "formerName_ar": "نوريها",
+        "newName": "Thalinda Sriprajak",
+        "newName_th": "ธลินดา ศรีประจักษ์",
+        "fatherName": "Dato Zulkifli",
+        "motherName": "Wanphen",
+        "registrationOffice": "Don Mueang District Registration Office, Bangkok",
+        "registrationNumber": "226/40571",
+        "dateOfRegistration": "2022-03-17"
+      },
+      "emails": ["nurlindaspj@gmail.com", "neeyaspj10@gmail.com"],
+      "phoneNumbers": ["+66838583719", "+6645577463"],
+      "addressFull": {
+        "street": "60 Vibhavadi 41",
+        "subdistrict": "Sanam Bin",
+        "district": "Don Mueang",
+        "province": "Bangkok",
+        "postalCode": "10210",
+        "country": "Thailand"
+      },
+      "CentralBank": {"verified": true},
+      "OpenSource": {
+        "scope": "All projects managed by Thalinda Sriprajak across GitHub, GitLab, Bitbucket, and other repositories",
+        "accessRights": {
+          "Master / Owner": "full admin",
+          "AuthorizedTeamMembers": "read/write/execute as assigned"
+        }
+      }
+    }
+  }
+}
+
+
+
